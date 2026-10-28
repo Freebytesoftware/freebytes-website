@@ -1,0 +1,2 @@
+# app-ads.txt for freebytesoftware.net (Freebytes)
+# Paste the lines from Unity (Organization Settings > App-ads.txt > Show full list) below this line.
